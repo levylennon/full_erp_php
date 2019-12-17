@@ -1,0 +1,15 @@
+.table-title {        
+    padding-bottom: 15px;
+    background: #2f323a;
+    color: #fff;
+    padding: 16px 30px;
+    border-radius: 3px 3px 0 0;
+    margin-bottom: 20px;
+}
+
+.float-right{
+    float: right;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}

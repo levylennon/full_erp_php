@@ -1,0 +1,12 @@
+Ao consultar em branco, tenho que trazer todos os registros.
+Ele está pegando o valor da última consulta.
+
+Talvez posso adicoinar um botão pra exibir todos.
+
+
+
+
+--------------------------------------------------
+
+Consertar paginação, quando passo só existe uma página, tem que passar 0 para a função, estou passando 1
+então a paginação que é pra conter apenas uma folha, fica mostrando o botão de <<primeiro.
